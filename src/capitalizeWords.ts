@@ -4,5 +4,5 @@
 
 export const capitalizeWords = (text: string): string => {
   //
-  return 'oops'
+  return text
 }
