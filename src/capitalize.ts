@@ -10,5 +10,8 @@ export const capitalize = (text: string): string => {
  */
 
 export const capitalizeWords = (text: string): string => {
-  return 'TODO'
+  return text
+    .split(' ')
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ')
 }
