@@ -1,4 +1,4 @@
-import { capitalizeWords } from '../capitalizeWords'
+import { capitalizeWords } from '../capitalize'
 
 describe('capitalizeWords', () => {
   it.skip('should capitalize all words in string', () => {

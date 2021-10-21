@@ -15,7 +15,7 @@
     "build": "tsdx build",
     "test": "jest --collectCoverage",
     "test:watch": "jest --watch",
-    "lint": "tsdx lint",
+    "lint": "eslint",
     "prepare": "husky install && tsdx build",
     "size": "size-limit",
     "analyze": "size-limit --why",
