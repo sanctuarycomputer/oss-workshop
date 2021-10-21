@@ -1,4 +1,7 @@
 ## API Reference
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### `sum`
 
@@ -66,5 +69,17 @@ feat(lib): BREAKING CHANGE replace second argument of function X to options obje
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.good-idea.studio"><img src="https://avatars.githubusercontent.com/u/11514928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joseph Thomas</b></sub></a><br /><a href="#blog-good-idea" title="Blogposts">📝</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
