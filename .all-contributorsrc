@@ -14,7 +14,8 @@
         "code",
         "test",
         "maintenance",
-        "bug"
+        "bug",
+        "blog"
       ]
     }
   ],
