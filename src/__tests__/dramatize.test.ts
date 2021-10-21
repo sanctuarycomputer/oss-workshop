@@ -1,4 +1,4 @@
-import { dramatize } from '../src'
+import { dramatize } from '../dramatize'
 
 describe('dramatize', () => {
   it('adds an exclamation mark at the end of the word', () => {
