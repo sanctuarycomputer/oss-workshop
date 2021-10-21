@@ -13,6 +13,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "derrickdbrandon",
+      "name": "Derrick Brandon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24640355?v=4",
+      "profile": "http://derrickbrandon.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
