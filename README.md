@@ -1,6 +1,9 @@
 ## API Reference
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### `sum`
@@ -16,7 +19,20 @@ const result = sum(1, 2)
 
 ### `arrayify`
 
-TODO - add description and example
+Create an array. Pass in a value to get it back as an array. If it already is an array, it will be passed back as-is.
+
+```
+const result = arrayify(1, 2, 3)
+// result === [1, 2, 3]
+```
+
+or
+
+```
+const array = [1, 2, 3]
+const result = arrayify(array)
+// result === [1, 2, 3]
+```
 
 ### `capitalize`
 
